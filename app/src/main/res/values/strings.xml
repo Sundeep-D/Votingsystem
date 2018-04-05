@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Votingsystem</string>
+
+    <array name="state">
+        <item>AndhraPradesh</item>
+        <item>Tamil Nadu</item>
+    </array>
+
+    <array name="constiuency">
+        <item>Tirutani</item>
+        <item>Thrivallur</item>
+    </array>
+
+    <array name="Partyname">
+        <item>BJP</item>
+        <item>DMK</item>
+        <item>DMK</item>
+        <item>DMDK</item>
+        <item>AIDMK</item>
+    </array>
+
+    <array name="Candidatename">
+        <item>Narsimhan</item>
+        <item>Palaniswamy</item>
+        <item>Stalin</item>
+        <item>Rajendran</item>
+        <item>Lakshimi</item>
+    </array>
+</resources>
